@@ -49,7 +49,7 @@ const ErrorBtn = styled.button`
   }
 `
 //https://prof-tejera.github.io/assignment-3-nhan826'
-const baseUrl = 'https://prof-tejera.github.io/';
+const baseUrl = 'https://prof-tejera.github.io/assignment-3-nhan826';
 
 const ErrorFallback = ({ error, resetErrorBoundary }) => (
   <ErrorMessage role="alert">

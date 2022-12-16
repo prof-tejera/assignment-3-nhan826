@@ -161,7 +161,7 @@ const App = () => {
                setTimerTotalTime
                }}> 
       <Container>
-        <Router>
+        <Router basename="/assignment-3-nhan826">
           <Nav />
           <Logo src= {logo} alt="Logo"/>
           <Routes>
